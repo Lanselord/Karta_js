@@ -1,0 +1,26 @@
+.container {
+    background-image: url(./visa-classic-400x225.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 400px;
+    height: 300px;
+    margin-bottom: -50px;
+}
+
+.name__text {
+    padding-left: 60px;
+    padding-top: 130px;
+    font-size: 20px;
+}
+
+.number__text {
+    padding-left: 60px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.data__text {
+    padding-left: 150px;
+    font-size: 20px;
+    margin-top: -10px;
+}
