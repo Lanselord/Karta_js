@@ -24,3 +24,22 @@
     font-size: 20px;
     margin-top: -10px;
 }
+
+.name {
+    padding: 10px 25px;
+}
+
+.number {
+    padding: 10px 25px;
+}
+
+.data {
+    padding: 10px 25px;
+}
+
+.btn {
+    padding: 10px 25px;
+    background-color: aqua;
+    border: none;
+    border: 2px solid black;
+}
